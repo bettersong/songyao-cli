@@ -1,0 +1,34 @@
+{
+    "name": "songyao-cli",
+    "version": "1.0.0",
+    "description": "#### 自制脚手架",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bettersong/songyao-cli.git"
+    },
+    "keywords": [],
+    "author": "songyao",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bettersong/songyao-cli/issues"
+    },
+    "homepage": "https://github.com/bettersong/songyao-cli#readme",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "commander": "^2.19.0",
+        "download-git-repo": "^1.1.0",
+        "inquirer": "^6.2.2",
+        "ora": "^3.2.0"
+    },
+    "bin": {
+        "sy": "bin/sy",
+        "sy-add": "bin/sy-add",
+        "sy-delete": "bin/sy-delete",
+        "sy-list": "bin/sy-list",
+        "sy-init": "bin/sy-init"
+    }
+}
