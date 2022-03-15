@@ -1,6 +1,6 @@
 {
     "name": "songyao-cli",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "#### 自制脚手架",
     "main": "index.js",
     "scripts": {
