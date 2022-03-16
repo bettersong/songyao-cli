@@ -1,6 +1,6 @@
 {
     "name": "songyao-cli",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "#### 自制脚手架",
     "main": "index.js",
     "scripts": {
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/bettersong/songyao-cli.git"
     },
-    "keywords": [],
+    "keywords": ["songyao", "songyao-cli", "cli"],
     "author": "songyao",
     "license": "ISC",
     "bugs": {

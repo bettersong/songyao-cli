@@ -1,1 +1,6 @@
-{"dev":"bettersong/lagou"}
+{
+    "sy-vue":"bettersong/songyao-template",
+    "sy-react":"bettersong/sy-react-template",
+    "sy-vue@3": "bettersong/vue3",
+    "sy-koa": "bettersong/sy-koa2-template"
+}
