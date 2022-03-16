@@ -18,7 +18,7 @@ sy list
 ```
 
 
-你会看到当前1.1.2版本支持vue2,react,vue3,koa项目
+你会看到当前1.1.3版本支持vue2,react,vue3,koa项目
 
 初始化一个项目试试吧
 
