@@ -1,5 +1,4 @@
 # songyao-cli
-文档地址：[详细文档点这里](https://mp.weixin.qq.com/s/ODwYUIlATUoj8CUuYadhWA)
 
 ![image-20220316151730931](https://mmbiz.qpic.cn/mmbiz_png/aw5KtMic7pia5W36gzhX7wicOUZHa6mXKe2b71L5t7aiaiaoxZxEhzY6EDkRuauc822EyLUUmJKuGxTaYziaianTFvQCQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -77,4 +76,4 @@ npm run dev
 
 ## 最后
 
-觉得不错的话，给作者点个赞吧，如果你有什么需要的项目模版欢迎找我添加，欢迎各位在GitHub给我star✨
+觉得不错的话，给作者点个star✨吧，如果你有什么需要的项目模版欢迎找我添加~
